@@ -1,5 +1,5 @@
 # A710160101.github.io
-<html>
+
   <h1> JURNAL TENTANG PENGAJARAN DAN ANDROID </h1>
   <p> 1. Judul jurnal <p>
   <p>   (a) Hack Android application and defence <p>
